@@ -12,7 +12,7 @@ set "RESET=%ESC%[0m"
 set "HOSTNAME=mqtt.tungsmd.cloud"
 set "LOCAL_PORT=1881"
 
-echo %CYAN%[INFO]%RESET% Service: client cloudflared service
+echo %CYAN%[INFO]%RESET% Service: node cloudflared service
 echo %CYAN%[INFO]%RESET% Target hostname : %HOSTNAME%
 echo %CYAN%[INFO]%RESET% Local bind port : %LOCAL_PORT%
 echo.
