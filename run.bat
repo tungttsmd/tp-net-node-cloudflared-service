@@ -1,2 +1,2 @@
 @echo off
-call "%~dp0node-cloudflared-service.bat"
+call "%~dp0client-cloudflared-service.bat"
